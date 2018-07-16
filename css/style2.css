@@ -1,0 +1,236 @@
+.wrap{
+    font-family: Actor;
+    font-size: 15px;
+    width:100%;
+    margin:auto;
+    background: linear-gradient(to bottom,skyblue,#12c2e9,#00b4db,#c31432, #93291e);
+   }
+
+a:visited{
+    color: rgb(197, 13, 50);;
+        }
+
+header{
+    background:linear-gradient(to bottom, #ffffff, #fdfbfb,#dfe9f3);
+    position: fixed;
+    height: 140px;
+    overflow: hidden;
+        }
+
+header h1{
+    font: 60px 'Pacifico', Helvetica, sans-serif;
+    color: #bb2601;
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.1); 
+    text-transform: capitalize; 
+        }
+header img{
+    width: 150px;
+    height: 150px;
+    overflow: hidden;   
+    }
+
+header li a:hover{
+    background: #ffe6ff;
+                }
+
+nav a{
+    text-decoration: none;
+    color: rgb(197, 13, 50);
+    font-weight: bold;
+    text-transform: capitalize;
+    font: 20px 'Great Vibes', Helvetica, sans-serif;
+    text-shadow: 2px 1px 1px rgba(0,0,0,0.1);
+        }
+
+nav ul{
+    font-size: 18px;
+    text-align: right;
+    padding-top: 15px;
+        }
+
+
+nav li{
+    display: inline;
+    padding-right: 5px; 
+        }
+
+.contentmain{
+    margin-top: 80px;
+    text-align: justify;
+    padding-right: 2PX;
+            }
+
+
+.contentmain img{
+    border-radius: 5%;
+    margin-top: 70px;
+    width: 220px;
+    height: 150px;
+                }
+.herwho img{
+    margin-top:65px;
+}
+
+.contentmain h2{
+    padding-top: 20px;
+    color: #811f31;
+    text-transform: capitalize;
+    text-align: justify;
+                }
+
+.contentmain p{
+    color: rgb(70, 1, 1);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+                }
+
+.mission{
+    margin-top: 100PX;
+        }
+.mission h1{
+    color:  rgb(158, 0, 32);
+    font-family: sans-serif;
+}
+.missionimg{
+    margin-top: 40px;
+    float: right;
+}
+
+.missionimg img{
+            width:300px;
+            height: 180px;
+}
+
+.main h2{
+    padding-top: 20px;
+        }
+
+.main2{
+    background-image:url("../herstart.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:600px;
+    width:100%;
+    padding:0px;
+    margin:0px;
+        }
+
+.main2 h2{
+    padding-top: 40px;
+    padding-left: 10px;
+        }
+
+.main2 p{
+width:65%;
+padding-left: 10px;
+text-align: justify;
+    }
+
+.main3{
+    margin-top: 1px;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+
+.col1 img{
+    width:300px;
+    height: 200px;
+    margin-left:100px;
+    padding-top: 100px;
+        }
+
+.col2 img{
+    width:300px;
+    height: 250px;
+    margin-left:100px;
+    padding-top: 50px;
+        }
+
+.col1 h2{
+    text-align: center;
+        }
+
+#m3{
+    text-align: justify;
+    line-height: 100px;
+    }
+
+
+.col1{
+    height: 500px;
+    text-align: justify;
+}   
+
+
+.col2 p{
+    margin-top: -20px;
+    text-align: justify;
+}       
+
+
+#d1{
+    height: 50px;
+    }
+
+#d2{
+    height: 50px;
+    margin-top: 40px;
+    }
+
+#d3{
+    height: 50px;
+    margin-top: 25px;
+    }
+
+.fa-facebook-square {
+    color:#3b5998;
+        }
+
+.fa-twitter-square{
+    color:#1da1f2;
+            }
+
+.fa-instagram{
+    color:maroon;
+            }
+
+.f1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 60px;
+
+    }
+
+
+.f2{
+    margin-top: 20px;
+    height: 80px;
+    margin-bottom: 10px; 
+    }
+
+
+.f2 li{
+    float: left;
+    padding-bottom: 2px;
+        }
+
+footer li{
+    display: inline;
+    padding-right: 20px;
+    list-style-type: none;
+        }
+
+.footermain{
+    background:linear-gradient(to bottom, #ffffff, #fdfbfb,#dfe9f3);
+    width: 100%;
+    margin-left: 100px;
+    color: black;
+    margin-top: 100px;
+    /* margin-bottom: 2px; */
+    clear: both;
+    margin-bottom: 10px;
+        }
+
